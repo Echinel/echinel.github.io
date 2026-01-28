@@ -22,7 +22,7 @@ avatar_image: /img/ChidiebereProfile_picture.JPG.jpeg
 
 #-------------------------------
 # Contact links
-linkedln: "https://www.linkedin.com/in/nelson-ezi-2a3526223/" # Add your linkedln handle
+linkedln: "https://www.linkedin.com/in/chidiebere-ezi" # Add your linkedln handle
 github: "https://github.com/Echinel"  # Add your github handle
 
 paginate: 6
@@ -51,6 +51,7 @@ defaults:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
 
 
 
