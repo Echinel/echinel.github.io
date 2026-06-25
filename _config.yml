@@ -43,7 +43,9 @@ defaults:
 
 #-------------------------------
 # Exclude from processing.
-# exclude:
+exclude:
+  - install.sh
+  - .claude/
 #   - Gemfile
 #   - Gemfile.lock
 #   - node_modules
